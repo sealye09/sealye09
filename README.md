@@ -1,3 +1,3 @@
-<picture>
-  <img alt="mona-hifive" src="./github-snake.gif" />
-</picture>
+<p align="center">
+  <img alt="" src="https://github.com/images/mona-hifive.gif" />
+</p>
